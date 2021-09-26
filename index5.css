@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+#header-topbar{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+}
+.header-logo{
+    width: 125px;
+    padding-top: 10px;
+    padding-right: 400px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+.header-text{
+    font-size: 16px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: 700;
+    padding-right: 55px;
+    opacity: 0.5;
+    color: black;
+}
+.header-text:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.header-text1{
+    font-size: 16px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: 700;
+    padding-right: 300px;
+    opacity: 0.5;
+}
+.header-text1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: black;
+}
+.button-1{
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    width: 125px;
+    height: 50px;
+    background-color: pink;
+    color: rgb(98, 98, 247);
+    position: relative;
+    margin-top: 26px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+}
+.stun{
+    padding-left: 100px;
+    font-size: 65px;
+    width: 50px;
+    font-family: Roboto;
+    font-weight: 700;
+}
+.text{
+    font-size: 15px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: 300;
+    padding-left: 100px;
+    opacity: 0.7;
+    width: 318px;
+}
+.button-2{
+    border: none;
+    border-radius: 20px 20px;
+    background-color: blueviolet;
+    width: 125px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: 400;
+    height: 50px;
+    margin-left: 89px;
+    color: white;
+    cursor: pointer;
+    display: block;
+    margin-top: 20px;
+}
+.up{
+    margin-left: 225px;
+    margin-top: 0px;
+}
+.down{
+    padding-right: 20px;
+}
+
+
+
+
+
+.one{
+    width: 290px;
+    background-color:rgb(247,238,238);
+    margin-bottom: 10px;
+    margin-left: 15px;
+    border-radius: 10px 10px;
+    text-align: center;
+}
+.koi{
+    font-size: 18px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: 300;
+    padding-bottom: 3px;
+}
+.ich{
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 2px;
+}
+.pink{
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+}
+
+
+
+
+.two{
+    width: 290px;
+    background-color:rgb(247,238,238);
+    margin-bottom: 10px;
+    margin-left: 15px;
+    border-radius: 10px 10px;
+    text-align: center;
+}
+.yo{
+    font-size: 18px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: 300;
+    padding-bottom: 3px;
+}
+.nin{
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 2px;
+}
+.orange{
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+}
+
+
+
+
+.three{
+    width: 290px;
+    background-color:rgb(247,238,238);
+    margin-bottom: 10px;
+    margin-left: 15px;
+    border-radius: 10px 10px;
+    text-align: center;
+}
+.san{
+    padding-top: 3px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    margin-left: 1px;
+}
+.ying{
+    font-size: 18px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: 300;
+    margin-bottom: 3px;
+    margin-left: 10px;
+}
+}
+.blue{
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+}
+
+
+
+
+.four{
+    width: 290px;
+    background-color:rgb(247,238,238);
+    margin-bottom: 10px;
+    margin-left: 15px;
+    border-radius: 10px 10px;
+    text-align: center;
+}
+.roku{
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 1px;
+    padding-right: 5px;
+}
+.yang{
+    font-size: 18px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: 300;
+    margin-bottom: 3px;
+    margin-left: 8px;
+}
+}
+.red{
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+}
+.button-3{
+    width: 20px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    border-radius: 5px 5px;
+    background-color: pink;
+}
+.button-4{
+    width: 20px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    border-radius: 5px 5px;
+    background-color: orange;
+}
+.button-5{
+    width: 20px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    border-radius: 5px 5px;
+    background-color: lightgreen;
+}
+.button-6{
+    width: 20px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    border-radius: 5px 5px;
+    background-color: red;
+}
+
+.one:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
+.two:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
+.three:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
+.four:hover{
+    background-color: white;
+    cursor: pointer;
+}
+.main-image{
+    float: right;
+    width: 700px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
